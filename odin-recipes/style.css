@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipes {
+    margin: auto 20px;
+    background: rgb(62, 62, 62);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+a:visited {
+    color:blanchedalmond;
+}
+
